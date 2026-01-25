@@ -374,7 +374,7 @@
 		</data>
 		<key>Headers/ResearchKitUI-Swift.h</key>
 		<data>
-		yQijKn7EueB39idZ77vMzcyCwAM=
+		7l8AVhXAIJXfxSuiSP1pAe6GeXE=
 		</data>
 		<key>Headers/ResearchKitUI.h</key>
 		<data>
@@ -398,47 +398,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		zUEjApRNaSrFXNxgLmsPxHajBus=
+		m9iLJDKXIIontGT0TCnTFSDjsgk=
 		</data>
 		<key>Modules/ResearchKitUI.swiftmodule/arm64-apple-xros-simulator.abi.json</key>
 		<data>
-		5/qNW5nYY3jZjnr1oXPh247rGZg=
+		T+NLeZviz9nHNLTredrXyNANRUE=
 		</data>
 		<key>Modules/ResearchKitUI.swiftmodule/arm64-apple-xros-simulator.private.swiftinterface</key>
 		<data>
-		/j9aMGvUEg7NOFbdC81e5bSgP5U=
+		DgjQIP9Q25f4jsi7+51FbeeaTaY=
 		</data>
 		<key>Modules/ResearchKitUI.swiftmodule/arm64-apple-xros-simulator.swiftdoc</key>
 		<data>
-		sQ7QxNrqi0JgL7EMujta94Yf4f4=
+		5TzlWkgOlXuwO+WjJ2dIylt906w=
 		</data>
 		<key>Modules/ResearchKitUI.swiftmodule/arm64-apple-xros-simulator.swiftinterface</key>
 		<data>
-		/j9aMGvUEg7NOFbdC81e5bSgP5U=
+		DgjQIP9Q25f4jsi7+51FbeeaTaY=
 		</data>
 		<key>Modules/ResearchKitUI.swiftmodule/arm64-apple-xros-simulator.swiftmodule</key>
 		<data>
-		+VbOxB5XI6A8jf1rNqIImXFGPuA=
+		9hw3g4R53ggnHr8K9xbUtnEj3uc=
 		</data>
 		<key>Modules/ResearchKitUI.swiftmodule/x86_64-apple-xros-simulator.abi.json</key>
 		<data>
-		5/qNW5nYY3jZjnr1oXPh247rGZg=
+		T+NLeZviz9nHNLTredrXyNANRUE=
 		</data>
 		<key>Modules/ResearchKitUI.swiftmodule/x86_64-apple-xros-simulator.private.swiftinterface</key>
 		<data>
-		oksyRYU4sEWW7cD5LLvF1d+TCqs=
+		FebEmPJFo9ro6MRv6Sy08AR0C4o=
 		</data>
 		<key>Modules/ResearchKitUI.swiftmodule/x86_64-apple-xros-simulator.swiftdoc</key>
 		<data>
-		X0826//fNxpzW5gtbcMJ52iu/rw=
+		aSMEhl4VyZUO/phxNRG8tEQKkCE=
 		</data>
 		<key>Modules/ResearchKitUI.swiftmodule/x86_64-apple-xros-simulator.swiftinterface</key>
 		<data>
-		oksyRYU4sEWW7cD5LLvF1d+TCqs=
+		FebEmPJFo9ro6MRv6Sy08AR0C4o=
 		</data>
 		<key>Modules/ResearchKitUI.swiftmodule/x86_64-apple-xros-simulator.swiftmodule</key>
 		<data>
-		SN78+nezi8/MLxPZ7hYOmNIOU5E=
+		BpT3AIXhJe/D+YIYngdV4MWtWJQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1228,7 +1228,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BiuJgJFOMzy0g3mEYN6N/q75dsn/skmiWYTTpzdTErg=
+			LpEcSQztf2A3/00/ZTBr4f1NhN9zb9JMnsLR4Xr8Xks=
 			</data>
 		</dict>
 		<key>Headers/ResearchKitUI.h</key>
@@ -1270,70 +1270,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4d3m9optZi+b/OEAjUizjiR13uBzZuRIc3v7KOxVhvI=
+			Ie5EDKAIu7B8l97jKXl7F14etM7rYRo+8YDAbNbj6fc=
 			</data>
 		</dict>
 		<key>Modules/ResearchKitUI.swiftmodule/arm64-apple-xros-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JD+Zg5G8IF7ccGRvO+2iiaj/v0u6bkqcblr4FgFcQ98=
+			ckvxxjyo1w78flaYm2q+weqpvILq48VTr0HeOxUJ/RI=
 			</data>
 		</dict>
 		<key>Modules/ResearchKitUI.swiftmodule/arm64-apple-xros-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Rmyr+j7oeTGtH/Ghof+5Y1MlBqY41+fIBWgKXNQii38=
+			4mqzkoaWLmBagnYlfk6Kgv2bIE2RP+oVr6ycZ7tx8uw=
 			</data>
 		</dict>
 		<key>Modules/ResearchKitUI.swiftmodule/arm64-apple-xros-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JD+Zg5G8IF7ccGRvO+2iiaj/v0u6bkqcblr4FgFcQ98=
+			ckvxxjyo1w78flaYm2q+weqpvILq48VTr0HeOxUJ/RI=
 			</data>
 		</dict>
 		<key>Modules/ResearchKitUI.swiftmodule/arm64-apple-xros-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			q2GyBvvHyx/i6P3JsexZOhKpeogLPTUgdHBFyk9Sdw8=
+			YeJEmp1uYo11fbywQSs3KDw+yox2lDAxQ+2AlOIZhrM=
 			</data>
 		</dict>
 		<key>Modules/ResearchKitUI.swiftmodule/x86_64-apple-xros-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4d3m9optZi+b/OEAjUizjiR13uBzZuRIc3v7KOxVhvI=
+			Ie5EDKAIu7B8l97jKXl7F14etM7rYRo+8YDAbNbj6fc=
 			</data>
 		</dict>
 		<key>Modules/ResearchKitUI.swiftmodule/x86_64-apple-xros-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ig7Rql/uwqSLXHTpJ/99VSfDiKN25IhK3sqIlB/2bZA=
+			EI/I0GC9nIin+UCpzTApr0bvHYJ2Ser6nO3AXZklams=
 			</data>
 		</dict>
 		<key>Modules/ResearchKitUI.swiftmodule/x86_64-apple-xros-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VleVVPCzvOR5iMwjRPI6xNSPhZXFhK5g9ppaxdjN+gs=
+			sgkptFhFcJMhPVX+bLvhbFye29nmU5LXMh+ilDDeIeI=
 			</data>
 		</dict>
 		<key>Modules/ResearchKitUI.swiftmodule/x86_64-apple-xros-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ig7Rql/uwqSLXHTpJ/99VSfDiKN25IhK3sqIlB/2bZA=
+			EI/I0GC9nIin+UCpzTApr0bvHYJ2Ser6nO3AXZklams=
 			</data>
 		</dict>
 		<key>Modules/ResearchKitUI.swiftmodule/x86_64-apple-xros-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vSuLhGhV9OvY9/dpOEeZdSooFxDVU0OgAWobKG8Ssj8=
+			ehZWslhxNv4L+wSjaZVFi8qMO6qMt+p5wf+WtRIKmAk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
