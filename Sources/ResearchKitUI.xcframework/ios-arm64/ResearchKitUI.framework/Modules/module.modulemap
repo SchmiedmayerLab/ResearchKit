@@ -9,5 +9,4 @@ framework module ResearchKitUI {
 
 module ResearchKitUI.Swift {
   header "ResearchKitUI-Swift.h"
-  requires objc
 }
