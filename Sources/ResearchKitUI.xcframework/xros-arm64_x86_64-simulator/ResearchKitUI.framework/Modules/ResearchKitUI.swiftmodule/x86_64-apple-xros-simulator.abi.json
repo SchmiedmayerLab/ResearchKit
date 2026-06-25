@@ -2300,21 +2300,21 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/githubrunner\/runner\/_work\/ResearchKit\/ResearchKit\/ResearchKitUI\/Common\/Answer Format\/SwiftUI Views\/TextChoiceView.swift",
+      "filePath": "\/Users\/ci\/runner\/_work\/ResearchKit\/ResearchKit\/ResearchKitUI\/Common\/Answer Format\/SwiftUI Views\/TextChoiceView.swift",
       "kind": "FloatLiteral",
       "offset": 1864,
       "length": 5,
       "value": "115.0"
     },
     {
-      "filePath": "\/Users\/githubrunner\/runner\/_work\/ResearchKit\/ResearchKit\/ResearchKitUI\/Common\/Answer Format\/SwiftUI Views\/TextChoiceView.swift",
+      "filePath": "\/Users\/ci\/runner\/_work\/ResearchKit\/ResearchKit\/ResearchKitUI\/Common\/Answer Format\/SwiftUI Views\/TextChoiceView.swift",
       "kind": "BooleanLiteral",
       "offset": 3812,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/githubrunner\/runner\/_work\/ResearchKit\/ResearchKit\/ResearchKitUI\/Common\/Answer Format\/SwiftUI Views\/TextChoiceView.swift",
+      "filePath": "\/Users\/ci\/runner\/_work\/ResearchKit\/ResearchKit\/ResearchKitUI\/Common\/Answer Format\/SwiftUI Views\/TextChoiceView.swift",
       "kind": "IntegerLiteral",
       "offset": 3876,
       "length": 2,

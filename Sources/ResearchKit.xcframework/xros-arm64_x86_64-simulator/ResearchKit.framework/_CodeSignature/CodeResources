@@ -334,11 +334,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		gWifP95hJJEs/cFj2G4Q71Coh8k=
+		qWlYgXyxiSMYAFx67cmlpmO/aUE=
 		</data>
 		<key>Modules/ResearchKit.swiftmodule/arm64-apple-xros-simulator.abi.json</key>
 		<data>
-		rNUpDST3/IDM4ufTo6N2AcZcBII=
+		6EvHMso252jOEiUlFnb+hso5gaE=
 		</data>
 		<key>Modules/ResearchKit.swiftmodule/arm64-apple-xros-simulator.private.swiftinterface</key>
 		<data>
@@ -354,11 +354,11 @@
 		</data>
 		<key>Modules/ResearchKit.swiftmodule/arm64-apple-xros-simulator.swiftmodule</key>
 		<data>
-		nNHgi6y8hqxoqVr9gSo1FvopX58=
+		mMNYKYLllj8/Cakh/gHkx3pbGpY=
 		</data>
 		<key>Modules/ResearchKit.swiftmodule/x86_64-apple-xros-simulator.abi.json</key>
 		<data>
-		rNUpDST3/IDM4ufTo6N2AcZcBII=
+		6EvHMso252jOEiUlFnb+hso5gaE=
 		</data>
 		<key>Modules/ResearchKit.swiftmodule/x86_64-apple-xros-simulator.private.swiftinterface</key>
 		<data>
@@ -374,7 +374,7 @@
 		</data>
 		<key>Modules/ResearchKit.swiftmodule/x86_64-apple-xros-simulator.swiftmodule</key>
 		<data>
-		9UvVg58DvaOpSXnkMVXuIBZIfO8=
+		94dMn2CZBeZA3MpHgVwT10HT+lk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1445,7 +1445,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SClZ/VJlwU3KtrG3f1CHz0SDAcjPsY6ysVr5He69azw=
+			1hECeTsuKAx39M6g0DYaSKbs8/p+LcZWet/WSMK3tPE=
 			</data>
 		</dict>
 		<key>Modules/ResearchKit.swiftmodule/arm64-apple-xros-simulator.private.swiftinterface</key>
@@ -1473,14 +1473,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0CVuBjideby7b5I15DRjCf6bB1qy/L9TVBM77xGmn5s=
+			6zipZb64qmPHjqOqLyPNXz7zOg1EDm5aXfHNVnmnu/Q=
 			</data>
 		</dict>
 		<key>Modules/ResearchKit.swiftmodule/x86_64-apple-xros-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SClZ/VJlwU3KtrG3f1CHz0SDAcjPsY6ysVr5He69azw=
+			1hECeTsuKAx39M6g0DYaSKbs8/p+LcZWet/WSMK3tPE=
 			</data>
 		</dict>
 		<key>Modules/ResearchKit.swiftmodule/x86_64-apple-xros-simulator.private.swiftinterface</key>
@@ -1508,7 +1508,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			80aKaC4htm3GyObxejsvyh3NhLZOFHmOD5b7gux1WOw=
+			ZGM+zJemBDDjYCuKt5/mtlvAVvFXySCw2vKNLdgYw+I=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
